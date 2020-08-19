@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Get some help for using git
 categories: CATEGORY-1 MeineTestKategorie
 ---
