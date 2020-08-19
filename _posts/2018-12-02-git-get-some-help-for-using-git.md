@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Get some help for using git
-categories: CATEGORY-1 MeineTestKategorie
+subtitle: A collection of resources for getting started for git and for solving problems with git.
+tags: [git, GitHub]
 ---
 
 <!--
