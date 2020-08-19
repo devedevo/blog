@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+# Name of website
+title: Hardy Scheel
+
+# Short description of your site
+description: a personal blog about software development, programming and computer science
+
+lang: en
