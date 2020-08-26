@@ -3,7 +3,6 @@ layout: post
 title: Get some help for using git
 description: A collection of resources for getting started for git and for solving problems with git.
 date: 2018-12-02
-last_update: 2018-12-03
 author: Hardy Scheel
 tags: [git, GitHub]
 ---

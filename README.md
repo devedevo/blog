@@ -6,14 +6,14 @@ To run this blog at [scheel.dev](https://scheel.dev) the following things are in
 - [YAML](https://yaml.org/) - YAML data serialization language is build in the template to make fast configurations all across the web site.
 
 ### Table of contents
-- [Jekylls role as a static site generator](#jekylls-role-as-a-static-site-generator)
+- [Jekyll's role as a static site generator](#jekyll's-role-as-a-static-site-generator)
 - [Template layout](#template-layout)
     - [Available YAML Front Matter variables](#available-yaml-front-matter-variables)
 - [Prose.io as web based content authoring editor](###prose-as-web-based-content-authoring-editor)
 
 ---
 
-## Jekylls role as a static site generator
+## Jekyll's role as a static site generator
 Static site generator means that the pages are built just once and just being served when their URL is hit, rather than being dynamically created with every page load.
 
 ## Template layout
@@ -24,13 +24,17 @@ This is a reusable template to use it for other projects, its components are gen
 ```YAML
 ---
 layout: default | post
-title:	Your big heading on the specific page or post.
-description: Your site or blog description that acts as a title.
-tags: [java, html] Add tags of your choice.
+title:	Your big heading on the specific page or post. Acts as a main title. If no title is used the default title in _config.yml is used.
+description: Your site or blog description that acts as a title. If no description is used the default description in _config.yml is used.
+date: When was your blog post created. If no date exists the file name is used. (optional)
+last_update: When did up update your existing blog post. (optional)
+author: Who has written this blog post.
+tags: [java, html] Add tags of your choice. To categorize blog posts. (optional)
+lang: The language of the current page. Default language is 'en' set in _config.yml.
 
 -- Jekyll optional vars
 date: overrides the date from the file name YYYY-MM-DD HH:MM:SS
-permalink: (default /year/month/day/title.html)
+permalink: (default /blog/title)
 ---
 ```
 ## Prose as web based content authoring editor

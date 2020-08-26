@@ -19,9 +19,9 @@ permalink: /blog/:title/
 # permalink: /blog/:year-:month-:day-:title/
 
 # Show only a few blog entries per page.
-paginate: 5
+paginate: 4
 
-# "true" or "false" to indicate whether to provide a download URL.
+# "true" or "false" to indicate whether to provide a download URL to download the project.
 show_downloads: false
 
 # Fill in your Google Analytics ID to track your website using GA.

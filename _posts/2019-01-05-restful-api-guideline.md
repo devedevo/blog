@@ -3,6 +3,7 @@ layout: post
 title: RESTful API Guideline
 description: Best practices on how to design REST APIs. 
 date: 2019-01-05
+last_update: 2019-01-24
 author: Hardy Scheel
 tags: [RESTful API]
 ---
