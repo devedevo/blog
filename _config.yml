@@ -8,6 +8,7 @@ description: a personal blog about software development, programming and compute
 lang: en
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings.
 url: https://devedevo.github.io/blog
+baseurl: /blog
 
 timezone: "Germany/Berlin"
 permalink: /blog/:year-:month-:day-:title/
