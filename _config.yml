@@ -10,16 +10,25 @@ description: Personal experiences and projects about software development, progr
 lang: en
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings.
+# url is the full website URL
+# baseurl is the website's URL without the hostname
 url: https://scheel.dev
-# baseurl:
+
+# If you are building a GitHub project page then use these settings:
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+# url: "hardyscheel.github.io/a-simple-app"
+# baseurl: "/a-simple-app"
 
 timezone: "Germany/Berlin"
 
 # permalink: /blog/:title/
 # permalink: /blog/:year-:month-:day-:title/
 
+author: Hardy Scheel
+
 # Show only a few blog entries per page.
-paginate: 4
+# paginate: 10
 
 # "true" or "false" to indicate whether to provide a download URL to download the project.
 show_downloads: false

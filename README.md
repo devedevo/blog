@@ -1,4 +1,4 @@
-# Website at scheel.dev
+# My website at scheel.dev
 This is the source code of my website and the Jekyll theme at [scheel.dev](https://scheel.dev) hosted at GitHub Pages. Based on a Jekyll template [Cayman](https://github.com/pages-themes/cayman) which then got many extensions by me. Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman).
 
 To run this blog at [scheel.dev](https://scheel.dev) the following things are involved:
@@ -7,7 +7,7 @@ To run this blog at [scheel.dev](https://scheel.dev) the following things are in
 - [YAML](https://yaml.org/) - YAML data serialization language is build in the template to make fast configurations all across the web site.
 
 ## Table of contents
-- [Jekyll's role as a static site generator](#jekyll's-role-as-a-static-site-generator)
+- [Jekylls role as a static site generator](#jekylls-role-as-a-static-site-generator)
 - [Template layout](#template-layout)
     - [Available YAML Front Matter variables](#available-yaml-front-matter-variables)
 - [Prose.io as web based content authoring editor](#prose-as-web-based-content-authoring-editor)
@@ -16,7 +16,7 @@ To run this blog at [scheel.dev](https://scheel.dev) the following things are in
 
 ---
 
-## Jekyll's role as a static site generator
+## Jekylls role as a static site generator
 Static site generator means that the pages are built just once and just being served when their URL is hit, rather than being dynamically created with every page load.
 
 ## Template layout
@@ -38,7 +38,7 @@ published: true | false Set to false if you don’t want a specific post to show
 
 -- Jekyll optional vars
 date: overrides the date from the file name YYYY-MM-DD HH:MM:SS
-permalink: (default /blog/title)
+permalink: (default /year/month/day/title.html)
 ---
 ```
 ## Prose as web based content authoring editor
