@@ -3,6 +3,7 @@ layout: post
 title: Get some help for using git
 subtitle: A collection of resources for getting started for git and for solving problems with git.
 tags: [git, GitHub]
+permalink: 2018-12-02-git-get-some-help-for-using-git
 ---
 
 <!--
