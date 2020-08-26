@@ -9,7 +9,7 @@ permalink: /blog/
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.date | date_to_string }} {% if post.last_update %}({{ post.last_update | date_to_string }}) {% endif %}- {{ post.author }}</p>
+      <p>{{ post.date | date_to_string }} {% if post.last_update %}(last updated on {{ post.last_update | date_to_string }}) {% endif %}- written by {{ post.author }}</p>
       <p>{{ post.description }}</p>
     </li>
   {% endfor %}
