@@ -15,7 +15,7 @@ url: https://scheel.dev
 
 timezone: "Germany/Berlin"
 
-permalink: /blog/:title/
+# permalink: /blog/:title/
 # permalink: /blog/:year-:month-:day-:title/
 
 # Show only a few blog entries per page.

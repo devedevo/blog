@@ -5,6 +5,7 @@ description: A collection of resources for getting started for git and for solvi
 date: 2018-12-02
 author: Hardy Scheel
 tags: [git, GitHub]
+published: false
 ---
 
 <!--
