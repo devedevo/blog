@@ -4,7 +4,7 @@
     ],
     "spellright.documentTypes": [
         "latex",
-        "plaintext",
-        "markdown"
+        "markdown",
+        "yaml"
     ]
 }

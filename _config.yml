@@ -11,11 +11,12 @@ lang: en
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings.
 url: https://scheel.dev
-# baseurl: /blog
+# baseurl:
 
 timezone: "Germany/Berlin"
 
-permalink: /blog/:year-:month-:day-:title/
+permalink: /blog/:title/
+# permalink: /blog/:year-:month-:day-:title/
 
 # Show only a few blog entries per page.
 paginate: 5
@@ -24,4 +25,4 @@ paginate: 5
 show_downloads: false
 
 # Fill in your Google Analytics ID to track your website using GA.
-google_analytics: UA-131417385-1
+google_analytics: UA-131417385-2

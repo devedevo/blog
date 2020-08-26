@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Hi. I'm Hardy Scheel.
+title: Hi. I'm Hardy.
 description: Personal experiences and projects about software development, programming and computer science.
 ---
 
-## Blog about software development
+## A Blog about software development
 
 View my [Blog](https://scheel.dev/blog).
 
