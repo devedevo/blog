@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Hi. I'm Hardy Scheel.
+description: Personal experiences and projects about software development, programming and computer science.
 ---
 
-## Welcome to my Website
+## Blog about software development
 
-You can use the [editor on GitHub](https://github.com/devedevo/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+View my [Blog](https://scheel.dev/blog).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## More about me
+You are interested in more information [about me](https://scheel.dev/aboutme)?

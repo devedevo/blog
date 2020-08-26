@@ -2,18 +2,24 @@ theme: jekyll-theme-cayman
 
 # Name of website.
 title: Hardy Scheel
+
 # Short description of your site.
-description: a personal blog about software development, programming and computer science
+description: Personal experiences and projects about software development, programming and computer science.
+
 # The language of your website content.
 lang: en
+
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings.
-url: https://devedevo.github.io/blog
-baseurl: /blog
+url: https://scheel.dev
+# baseurl: /blog
 
 timezone: "Germany/Berlin"
+
 permalink: /blog/:year-:month-:day-:title/
+
 # Show only a few blog entries per page.
 paginate: 5
+
 # "true" or "false" to indicate whether to provide a download URL.
 show_downloads: false
 
