@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Hardy Scheel
-description: a personal blog about software development, programming and computer science
+title: Hi. I'm Hardy Scheel.
 ---
 
 ## Welcome to my Website

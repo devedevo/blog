@@ -1,12 +1,14 @@
 ---
 layout: default
+title: Hi. I'm Hardy Scheel.
 permalink: /blog/
 ---
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="/_posts/{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="/_posts{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.date }} | {{post.author }}
       {{ post.subtitle }}
     </li>
   {% endfor %}

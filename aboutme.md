@@ -23,7 +23,7 @@ music recording &bull; ProTools, Cubase, Studio One &bull; microphoning &bull; d
 ## My works (currently)
 -->
 
-## Education
+## My education
 *I am currently on a vocational training (retraining) for:*
 - IT Specialist for Application Development (also called 'Computer Science Expert Subject Area: Software Development')
 
