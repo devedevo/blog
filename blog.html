@@ -9,7 +9,7 @@ permalink: /blog/
     <li>
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.date | date_to_string }} - {{ post.author }}</p>
-      <p>{ post.subtitle }}</p>
+      <p>{{ post.description }}</p>
     </li>
   {% endfor %}
 </ul>
