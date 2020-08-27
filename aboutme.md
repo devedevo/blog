@@ -40,3 +40,5 @@ music recording &bull; ProTools, Cubase, Studio One &bull; microphoning &bull; d
 - Desktop applications for small business needs in Visual Basic 6, C++ (2002-2007)
 - MS Access database and gui development (2000-2004)
 - Desktop publishing (DTP for corporate identity, posters, brochures) and web design at work and for music bands (1997-2007)
+
+You can contact me at hardy.scheel [at] gmail.com.
