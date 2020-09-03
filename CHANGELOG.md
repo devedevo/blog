@@ -4,6 +4,8 @@ This file lists all non-trivial changes.
 
 I often make small changes or to the general look-and-feel. These changes will not be listed here. Any other minor changes will also not be listed here.
 
+**2020-08-26** Add project overview page.
+
 **2020-08-26** Add html error 404 page.
 
 **2020-08-26** Add feed.xml for Atom feed.
