@@ -15,7 +15,7 @@ Use your already existing Git for Windows with Cmder-mini.
 
 ----
 
-We are setting up Cmder-mini (currently at version 2.8.0) with an already installed Git for Windows bash to use git bash within Cmder-mini. Cmder-mini does not include Git and is a way more leightweight than the full Cmder variant. When combining them you benefit from your already made and existing setting in Git for Windows.
+We are setting up Cmder-mini (currently at version 2.8.0) with an already installed Git for Windows bash to use git bash within Cmder-mini. Cmder-mini does not include Git and is a way more lightweight than the full Cmder variant. When combining them you benefit from your already made and existing setting in Git for Windows.
 
 To start the the Cmder configuration open Cmder and press "Win + Alt + T" keys or open "Setup tasks...", which you can find a menu at the right bottom corner at the green plus sign, to create a new bash in Cmder.
 
@@ -27,7 +27,7 @@ Create a new task or bash by clicking on the + sign. And fill out some text boxe
 ""C:\Program Files\Git\bin\sh.exe" --login -i"
 ~~~
 
-Choose this if you setup Git for Windows with "Use Git from Git bash only" or "Git from the commmand line and also 3rd-party software" when you had to adjust your PATH environment during the Git for Windows installation.
+Choose this if you setup Git for Windows with "Use Git from Git bash only" or "Git from the command line and also 3rd-party software" when you had to adjust your PATH environment during the Git for Windows installation.
 
 OR:
 
