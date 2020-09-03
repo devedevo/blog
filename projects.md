@@ -11,3 +11,10 @@ A very basic online store written with Angular to get some experiences with Type
 Live Demo: [https://angular-simple-online-store.web.app](https://angular-simple-online-store.web.app){:target="_blank"}
 
 GitHub Repository: [https://github.com/HardyScheel/angular-simple-online-store)](https://github.com/HardyScheel/angular-simple-online-store){:target="_blank"}
+
+---
+
+## My old blog
+A blog I maintained until 2020 with a heavily modified Jekyll theme.
+
+The old blog [can be viewed here](https://scheel.dev/blog-beautiful-jekyll-fork/){:target="_blank"}.
