@@ -16,33 +16,47 @@ Google operators
 ## Search operators
 
 `link:<domain>` - Which other websites have linked to this website? Example usage: Who has linked to your website or your blog entry?
-> link:scheel.dev
+```
+link:scheel.dev
+```
 
 `site:<domain> your search queries` - Search the website you have specified.
-> site:scheel.dev java
-
-> java site:scheel.dev
+```
+site:scheel.dev java
+java site:scheel.dev
+```
 
 `inurl:your search query` - Search a concrete part of the URL.
-> site:scheel.dev inurl:cmder
+```
+site:scheel.dev inurl:cmder
+```
 
 `info:<domain>` - Get site specific details and data. Get sites in google cache, similar sites or sites which are linked within this site.
-> info:scheel.dev
+```
+info:scheel.dev
+```
 
 `define:your search query` - Get the definition about your query.
-> define:html
+```
+define:html
+```
 
 `cache:<domain>` - Get old cached versions of a site.
-> cache:scheel.dev
+```
+cache:scheel.dev
+```
 
 `related:<domain>` - Find similar sites.
-> cache:heise.de
+```
+cache:heise.de
+```
 
 ### Further help
 
 - [Google Search Help](https://support.google.com/websearch/answer/134479)
 - [Google Search Help - optimize your search](https://support.google.com/websearch/answer/2466433)
-- https://www.online-marketing.de/google-suchoperatoren/
+- [German: online-marketing.de/google-suchoperatoren/](https://www.online-marketing.de/google-suchoperatoren/)
+- [German: t3n.de/news/google-suche-tipps-und-tricks](https://t3n.de/news/google-suche-tipps-und-tricks-537407/)
 
 ## Calculator
 
@@ -83,7 +97,7 @@ Use the color picker to select a color or convert one color code to another.
 
 [Google Search Help - Use calculator, unit converter and color picker](https://support.google.com/websearch/answer/3284611)
 
-<br>
+
 Google Operators in tabular form
 ================================
 
@@ -94,7 +108,7 @@ Basic Google search operators
 | ------    |:-------:  | -------:  |
 | +         | Search for several terms. Corresponds to the Google Standard Search. | Blog+Ratings |
 | –         | Exclude terms. | Ice -Bear |
-| `|`       | The sipe symbol separates two terms and requires separate search results for both terms. | Bike+Helmet`|`E-Bike |
+| \|       | The sipe symbol separates two terms and requires separate search results for both terms. | Bike+Helmet \| E-Bike |
 | "…"       | Use quotation marks to search for a concrete sentence. | "The Kremlin in Moscow." |
 | *         | Wildcard search. Search for unknown terms. | Airplane*Helicopter |
 | .         | A dot automatically completes an omitted word in the search input. | The glorious. |
