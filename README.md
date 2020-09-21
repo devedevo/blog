@@ -1,4 +1,6 @@
 # My website at scheel.dev
+Jekyll based blog. Hosted on GitHub Pages with blog posts written in Markdown.
+
 This is the source code of my website and the Jekyll theme at [scheel.dev](https://scheel.dev) hosted at GitHub Pages. Based on a Jekyll template [Cayman](https://github.com/pages-themes/cayman) which then got many extensions by me. Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman).
 
 To run this blog at [scheel.dev](https://scheel.dev) the following things are involved:
