@@ -31,19 +31,22 @@ From time to time it is necessary to renew the credentials for a shared drive in
 To test if you can get access to your mounted drive, you can start an Alpine Linux bash and navigate to your mounted SMB drive `C:\` like this:
 
 To start alpine Linux and bind Windows drive `C:\` to alpine Linux `/path/` path, type in `cmd.exe`:
-~~~
+
+~~~shell
 $ docker run --rm -it -v C::/data alpine sh
 ~~~
 
 A bash on Alpine Linux starts. You can now list the content of the mounted `/data/` path in your Alpine Linux container. It should contain your drive `C:\` on your Windows host.
-~~~
+
+~~~shell
 $ ls /data/
 ~~~
 
 ## Run a Jekyll container
 
 Navigate to your Jekyll project. Open `cmd.exe`. From here we use `%C%` to tell Docker that we want to bind the current project directory to the Jekyll container path: `/user/src/app`.
-~~~
+
+~~~shell
 $ docker run -v %CD%:/usr/src/app -p "4000:4000" starefossen/github-pages
 ~~~
 

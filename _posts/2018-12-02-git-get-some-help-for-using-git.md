@@ -54,13 +54,15 @@ Git uses a hierarchical configuration of multiple levels. Settings in higher lev
 - **local** - The current repository settings are stored locally in the repository directory: `.git/config`
 
 You can configure an individual repository to use a specific user which overrides the *global* configuration. From the root directory of the repository, run the following on command line:
-~~~
+
+~~~shell
 $ git config user.name "your name"
 $ git config user.email your@email.com
 ~~~
 
 The default user for all repositories is configured in the *global* configuration file in your home directory `~/.gitconfig`. You can also run the following from command line:
-~~~
+
+~~~shell
 $ git config --global user.name "your name"
 $ git config --global user.email your@email.com
 ~~~

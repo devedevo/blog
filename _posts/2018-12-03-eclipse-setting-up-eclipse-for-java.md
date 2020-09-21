@@ -94,7 +94,7 @@ JavaFX is not part of the base Java SE 8 API. Because of Eclipse strictness, you
 Hint: Eclipse has its own Java compiler. A dedicated JDK is not necessary when working with Eclipse. The Java JRE you have installed on your computer causes the problem. The JRE runs after you have compiled your app with the build in Eclipse compiler. Eclipse also uses the JRE to check dependencies and much more.
 
 Your error message could look like this:
-~~~
+~~~shell
 Access restriction: The type 'Application' is not API (restriction on required library 'C:\Program Files\Java\jre1.8.0_191\lib\ext\jfxrt.jar')
 ~~~
 

@@ -23,7 +23,7 @@ Create a new task or bash by clicking on the + sign. And fill out some text boxe
 - Enter a name for your task e.g. "Git bash".
 - At the big text box enter the path to your Git for Windows installation. You have two possibilities on how to setup up the path:
 
-~~~
+~~~bash
 ""C:\Program Files\Git\bin\sh.exe" --login -i"
 ~~~
 
@@ -31,7 +31,7 @@ Choose this if you setup Git for Windows with "Use Git from Git bash only" or "G
 
 OR:
 
-~~~
+~~~bash
 "sh --login -i"
 ~~~
 
@@ -49,6 +49,6 @@ The most common settings could look like this:
 
 - At last you can give your bash an icon. Type in the following at the "Task parameters" text box:
 
-~~~
+~~~bash
 /icon "C:\Program Files\Git\mingw64\share\git\git-for-windows.ico"
 ~~~
