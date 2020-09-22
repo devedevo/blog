@@ -50,7 +50,7 @@ Example usage:
 
 ## LaTeX/Mathematics / TeX Mathematical Formulae
 
-The beginning and ending dollar signs (`$`) are the delimiters for the TeX markup.
+Some renderers can interpret LaTeX Mathematics. The beginning and ending dollar signs (`$`) are the delimiters for the TeX markup.
 
 - [https://en.wikibooks.org/wiki/LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics){:target="_blank"}
 
@@ -60,13 +60,6 @@ $-b \pm \sqrt{b^2 - 4ac} \over 2a$
 $x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
 $\forall x \in X, \quad \exists y \leq \epsilon$
 ```
-Will be:
-
-$-b \pm \sqrt{b^2 - 4ac} \over 2a$
-
-$x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
-
-$\forall x \in X, \quad \exists y \leq \epsilon$
 
 
 CommonMark
@@ -76,4 +69,3 @@ CommonMark is a propose for an unambiguous syntax reference specification for Ma
 - [CommonMark website](https://commonmark.org){:target="_blank"}
 - [CommonMark specification](https://spec.commonmark.org/){:target="_blank"}
 - [GitHub Flavored Markdown Spec - based on CommonMark](https://github.github.com/gfm/){:target="_blank"}
-
