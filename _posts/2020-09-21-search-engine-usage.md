@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Search enginge usage with Google operators
+title: Search engine usage with Google operators
 description: Tips, hints and best practises for using Google & co.
 date: 2020-09-21
 author: Hardy Scheel
@@ -8,7 +8,7 @@ tags: [git, cmder]
 published: true
 ---
 
-How does a search engine interpret your search queries? Your text queries are not interpreted like a prosa text, which is very familar for human understanding. Google for instance ignores stop-words like: and, for or the, and also interpunctuation. It picks out keywords, combines them and queries his databases for matches.
+How does a search engine interpret your search queries? Your text queries are not interpreted like a prose text, which is very familiar for human understanding. Google for instance ignores stop-words like: and, for or the, and also interpunctuation. It picks out keywords, combines them and queries his databases for matches.
 
 Google operators
 ================
@@ -87,15 +87,15 @@ Unit Converter:
 
 ### Further help
 
-[Google Search Help - Use calculator, unit converter and color picker](https://support.google.com/websearch/answer/3284611){:target="_blank"}
+[Google Search Help - Use calculator, unit converter and colour picker](https://support.google.com/websearch/answer/3284611){:target="_blank"}
 
-## Color Picker
+## Colour Picker
 
-Use the color picker to select a color or convert one color code to another.
+Use the colour picker to select a colour or convert one colour code to another.
 
 ### Further help
 
-[Google Search Help - Use calculator, unit converter and color picker](https://support.google.com/websearch/answer/3284611){:target="_blank"}
+[Google Search Help - Use calculator, unit converter and colour picker](https://support.google.com/websearch/answer/3284611){:target="_blank"}
 
 
 Google Operators in tabular form
@@ -108,12 +108,12 @@ Basic Google search operators
 | ------    |:-------:  | -------:  |
 | +         | Search for several terms. Corresponds to the Google Standard Search. | Blog+Ratings |
 | –         | Exclude terms. | Ice -Bear |
-| \|       | The sipe symbol separates two terms and requires separate search results for both terms. | Bike+Helmet \| E-Bike |
+| \|        | The pipe symbol separates two terms and requires separate search results for both terms. | Bike+Helmet \| E-Bike |
 | "…"       | Use quotation marks to search for a concrete sentence. | "The Kremlin in Moscow." |
 | *         | Wildcard search. Search for unknown terms. | Airplane*Helicopter |
 | .         | A dot automatically completes an omitted word in the search input. | The glorious. |
 | ~         | Search for synonyms. | ~Evaluation |
-| ..        | A from-to search. | iphone 400..600$ |
+| ..        | A from-to search. | iPhone 400..600$ |
 | (...)     | Group operators and terms. | site:scheel.dev AND intitle:cmder |
 
 Advanced Google search operators
@@ -131,7 +131,7 @@ Advanced Google search operators
 | cache: | Specifies the cache version of the searched website. | cache:amazon.com |
 | define: | define offers the possibility to get definitions of the search term from various sources. | define:syntax |
 | filetype: | Search results can be reduced to a specific file format, for example PDF. | recipe cheesecake filetype:pdf |
-| inanchor: | Only websites whose text links contain desired search terms. | inanchor:color theory |
+| inanchor: | Only websites whose text links contain desired search terms. | inanchor:colour theory |
 | inauthor: | The author appears by name. | Inauthor:Jeff Bezos |
 | info: | More information about the given page. | info:ebay.com |
 | intext: | Searches only for text content that contains the search term. | intext:swim |
@@ -143,4 +143,4 @@ Advanced Google search operators
 | movie: | Cinema program regarding film and location are displayed. | movie:star wars |
 | related: | Shows comparatively similar websites that you have specified. | related:news.com |
 | site: | Search all pages of a domain indexed by Google. | site:www.news.com |
-| weather: | Weather data refer to the location indicated. | weather:moscow |
+| weather: | Weather data refer to the location indicated. | weather:Moscow |

@@ -34,7 +34,7 @@ Markdown is a simple way to write, structure and format text. And all at the sam
 
 ## Syntax highlighting in code blocks
 
-Code blocks are part of the MarkDown specification but syntax highlighting is not. But many renderers like GitHub support syntax highlighting. Just open a code block and define your language or shell you want to color.
+Code blocks are part of the MarkDown specification but syntax highlighting is not. But many renderers like GitHub support syntax highlighting. Just open a code block and define your language or shell you want to colour.
 
 - Look what languages are supported by syntax highlighting: [https://highlightjs.org/static/demo/](https://highlightjs.org/static/demo/){:target="_blank"}
 
