@@ -10,11 +10,11 @@ I often make small changes or to the general look-and-feel. These changes will n
 
 **2020-08-26** Add feed.xml for Atom feed.
 
-**2020-08-26** Version 0.1.0 is released! Looks good functionality is good.
+**2020-08-26** Version 0.1.0 is released! Looks good, functionality is good.
 
 **2020-08-26** Add Google Analytics.
 
-**2020-08-26** Move from hardyscheel.de to scheel.dev.
+**2020-08-26** Switch domain from hardyscheel.de to scheel.dev.
 
 **2020-08-26** Integrated blog overview to function as a blog instead of a project website. Changed colours to me taste.
 
