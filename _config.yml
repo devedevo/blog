@@ -22,13 +22,14 @@ url: https://scheel.dev
 
 timezone: "Germany/Berlin"
 
-# permalink: /blog/:title/
+permalink: /blog/:title/
 # permalink: /blog/:year-:month-:day-:title/
 
 author: Hardy Scheel
 
 # Show only a few blog entries per page.
-# paginate: 10
+paginate: 3
+paginate_path: "/blog/page:num/"
 
 # "true" or "false" to indicate whether to provide a download URL to download the project.
 show_downloads: false

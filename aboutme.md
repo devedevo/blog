@@ -3,6 +3,7 @@ layout: default
 title: Hi. I'm Hardy Scheel.
 description: I am in software development and computer science.
 permalink: /aboutme/
+published: true
 ---
 
 *My name is Hardy Scheel and I live in the western corner of Germany in a big town called [Cologne](https://goo.gl/maps/4HdXxkBrVhZFC8uF8){:target="_blank"} or Köln as we say.*
