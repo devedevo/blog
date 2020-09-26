@@ -15,6 +15,8 @@ To run this blog at [scheel.dev](https://scheel.dev) the following things are in
 - [Prose.io as web based content authoring editor](#prose-as-web-based-content-authoring-editor)
 - [Stylesheet](#Stylesheet)
 - [Layouts](#Layouts)
+- [Documentation](#Documentation)
+    - [jekyll-paginate 1.1.0](#jekyll-paginate-1.1.0)
 
 ---
 
@@ -68,3 +70,21 @@ If you'd like to change the theme's HTML layout:
 2. Create a file called `/_layouts/default.html` in your site
 3. Paste the default layout content copied in the first step
 4. Customize the layout as you'd like
+
+## Documentation
+
+* [GitHub Pages dependency versions](https://pages.github.com/versions/)
+
+### jekyll-paginate 1.1.0
+* [How to paginate in jekyll?](https://stackoverflow.com/questions/57659321/how-to-paginate-in-jekyll)
+
+Pagination implementation:
+
+1. In _config.yml :
+
+    ```yaml
+    paginate: 5
+    paginate_path: "/blog/page:num/"
+    ```
+
+2. Create an index.html (not markdown) as the first page in your paginate_path. Here it's /blog/index.html.
