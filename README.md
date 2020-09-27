@@ -16,7 +16,9 @@ To run this blog at [scheel.dev](https://scheel.dev) the following things are in
 - [Stylesheet](#Stylesheet)
 - [Layouts](#Layouts)
 - [Documentation](#Documentation)
-    - [jekyll-paginate 1.1.0](#jekyll-paginate-1.1.0)
+    - [Kramdown 2.3.0](#Kramdown 2.3.0)
+    - [jekyll-paginate 1.1.0](#jekyll-paginate 1.1.0)
+    - [jekyll-sitemap 1.4.0](#jekyll-sitemap 1.4.0)
 
 ---
 
@@ -73,9 +75,27 @@ If you'd like to change the theme's HTML layout:
 
 ## Documentation
 
+### Docker
+
+[https://github.com/Starefossen/docker-github-pages](https://github.com/Starefossen/docker-github-pages)
+
+#### Docker compose
+
+Start the container with
+
+```shell
+docker-compose up
+```
+
+### GitHub Pages dependency versions
+
 * [GitHub Pages dependency versions](https://pages.github.com/versions/)
 
-### jekyll-paginate 1.1.0
+#### Kramdown 2.3.0
+
+[Krandown](https://kramdown.gettalong.org/quickref.html)
+
+#### jekyll-paginate 1.1.0
 * [How to paginate in jekyll?](https://stackoverflow.com/questions/57659321/how-to-paginate-in-jekyll)
 
 Pagination implementation:
@@ -88,3 +108,12 @@ Pagination implementation:
     ```
 
 2. Create an index.html (not markdown) as the first page in your paginate_path. Here it's /blog/index.html.
+
+#### jekyll-sitemap 1.4.0
+
+> ??? Does currently not work ???
+
+Automatically generate an sitemap.xml that is sitemaps.org sitemap compliant.
+
+* [https://github.com/jekyll/jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
+* [https://www.rubydoc.info/gems/jekyll-sitemap/1.4.0](https://www.rubydoc.info/gems/jekyll-sitemap/1.4.0)

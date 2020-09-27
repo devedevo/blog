@@ -33,3 +33,6 @@
 # System Files
 .DS_Store
 Thumbs.db
+
+# Docker & Ryby & Jekyll compilation
+.sass-cache

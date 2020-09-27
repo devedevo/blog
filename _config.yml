@@ -40,3 +40,6 @@ google_analytics: UA-131417385-2
 
 plugins:
     - jekyll-sitemap
+
+gems:
+    - jekyll-sitemap

@@ -7,7 +7,4 @@
         "plaintext",
         "markdown"
     ],
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "spellright.addToSystemDictionary": true
 }

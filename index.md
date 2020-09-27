@@ -4,17 +4,17 @@ title: Hi. I'm Hardy.
 description: Personal experiences and projects about software development, programming and computer science.
 ---
 
-## [Read my blog about software development.](https://scheel.dev/blog)
+## [Read my blog about software development.]({{ site.url }}/blog/)
 
-View my [blog](https://scheel.dev/blog).
+View my [blog]({{ site.url }}/blog/).
 
-## [Interested in some projects I am working on?](https://scheel.dev/projects)
+## [Interested in some projects I am working on?]({{ site.url }}/projects/)
 
-View my [project overview](https://scheel.dev/projects).
+View my [project overview]({{ site.url }}/projects/).
 
-## [Find out more about me.](https://scheel.dev/aboutme)
+## [Find out more about me.]({{ site.url }}/aboutme/)
 
-View my [profile](https://scheel.dev/aboutme).
+View my [profile]({{ site.url }}/aboutme/).
 
 
 
