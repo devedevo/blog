@@ -16,9 +16,9 @@ A summary of topics I am working on or dealing with:
 
 *Currently, I force my time towards front- and backend web development for business applications. Over time, I'm trying to go with full stack web development with JavaScript and Java technologies.*
 - JavaScript (>= ECMA2015), TypeScript 4
-- MEAN stack: Angular 10, Node.js Express
-- MySQL/MariaDB, PostGreSQL
-- Development based on Model View Control architecture and component based
+- MEAN stack: Angular 10, Node.js, Express
+- MySQL, MariaDB, PostGreSQL
+- Model View Control architecture and component driven development
 - Docker
 
 *What else? I like, and I do continuous learning in a broad aspect of computer science. E.g.: I try out algorithms &bull; use MV* architecture pattern (like MVC, MVP, MVVM) and some frameworks &bull; networks &bull; computer hardware components*
@@ -26,7 +26,7 @@ A summary of topics I am working on or dealing with:
 ## Things I did in the past, and things I also do
 
 - Require management and development for business applications and web development.
-- Java SE (>= 6), JavaFX &bull; Python &bull; PHP &bull; Perl
+- Java SE, JavaFX &bull; Python &bull; PHP &bull; Perl
 - Oracle DB 11 & 12
 - Vagrant, HyperV, Virtual Box
 - RaspberryPi, Arduino

@@ -9,14 +9,14 @@ published: true
 ---
 
 ### Table of content
-* [Deploy Portainer within Docker for Linux or Windows](#Deploy-Portainer-within-Docker-for-Linux-or-Windows)
-    * [Using docker compose](#Using-docker-compose)
+* [Deploy Portainer within Docker for Linux or Windows](#deploy-portainer-within-docker-for-linux-or-windows)
+    * [Using docker compose](#using-docker-compose)
     * [Further information](#further-information)
-* [Deploy Portainer on a QNAP NAS](#Deploy-Portainer-on-a-QNAP-NAS)
-    * [Best practices](#Best-practices)
+* [Deploy Portainer on a QNAP NAS](#deploy-portainer-on-a-qnap-nas)
+    * [Best practices](#best-practices)
     * [Further information](#further-information)
-* [Remote control Portainer on a QNAP NAS](#Remote-control-Portainer-on-a-QNAP-NAS)
-    * [Modify your QNAP NAS to accept Portainer connections](#Modify-your-QNAP-NAS-to-accept-Portainer-connections)
+* [Remote control Portainer on a QNAP NAS](#remote-control-portainer-on-a-qnap-nas)
+    * [Modify your QNAP NAS to accept Portainer connections](#modify-your-qnap-nas-to-accept-portainer-connections)
     * [Further information](#further-information)
 
 ---
@@ -69,20 +69,21 @@ $ docker-compose up -d
 ```
 This runs docker compose in detached mode, pulls the needed Docker images, and starts the containers
 
-**Shut down**
+**Shut down**:
 ```shell
 $ docker-compose down
 ```
 This removes the containers and default network, but preserves the data.
 
-**Shut down and clean up**
+**Shut down and clean up**:
 ```shel
 $ docker-compose down --volumes
 ```
 This removes the containers, network and also the persistent data which is stored in a volume.
 
 ### Further information
-* https://www.portainer.io/installation/
+
+* [https://www.portainer.io/installation/](https://www.portainer.io/installation/){:target="_blank"}
 
 ---
 
@@ -109,13 +110,13 @@ Now **deploy** Portainer with the help of this Docker Compose configuration file
 $ docker-compose -f qnap-portainer.yml up -d
 ```
 
-**Shut down**
+**Shut down**:
 ```shell
 $ docker-compose -f qnap-portainer.yml down
 ```
 This removes the containers and default network, but preserves the data.
 
-**Shut down and clean up**
+**Shut down and clean up**:
 ```shel
 $ docker-compose -f qnap-portainer.yml --volumes
 ```
@@ -128,8 +129,8 @@ This removes the containers, network and also the persistent data which is store
 
 ### Further information
 
-* [Best practices for Docker on QNAP NAS](https://mwunderling.com/blog/qnapcontainertips.html)
-* [Install Portainer on QNAP NAS](https://mwunderling.com/blog/portainerconfig.html)
+* [Best practices for Docker on QNAP NAS](https://mwunderling.com/blog/qnapcontainertips.html){:target="_blank"}
+* [Install Portainer on QNAP NAS](https://mwunderling.com/blog/portainerconfig.html){:target="_blank"}
 
 ---
 
@@ -164,4 +165,4 @@ On another Portainer instance on a different computer add QNAP Container Station
 
 ### Further information
 
-* [Configure Portainer remote access](https://mwunderling.com/blog/portainerconfig.html)
+* [Configure Portainer remote access](https://mwunderling.com/blog/portainerconfig.html){:target="_blank"}

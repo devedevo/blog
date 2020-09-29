@@ -11,16 +11,16 @@ published: true
 How does a search engine interpret your search queries? Your text queries are not interpreted like a prose text, which is very familiar for human understanding. Google for instance ignores stop-words like: and, for or the, and also interpunctuation. It picks out keywords, combines them and queries his databases for matches.
 
 ### Table of content
-* [Google operators](#Google-operators)
-    * [Search operators](#Search-operators)
-        * [Further help](#Further-help)
-    * [Calculator](#Calculator)
-        * [Further help](#Further-help)
-    * [Colour Picker](#Colour-Picker)
-        * [Further help](#Further-help)
-* [Google Operators in tabular form](#Google-Operators-in-tabular-form)
-    * [Basic Google search operators](#Basic-Google-search-operators)
-    * [Advanced Google search operators](#Advanced-Google-search-operators)
+* [Google operators](#google-operators)
+    * [Search operators](#search-operators)
+        * [Further help](#further-help)
+    * [Calculator](#calculator)
+        * [Further help](#further-help)
+    * [Colour Picker](#colour-picker)
+        * [Further help](#further-help)
+* [Google Operators in tabular form](#google-operators-in-tabular-form)
+    * [Basic Google search operators](#basic-google-search-operators)
+    * [Advanced Google search operators](#advanced-google-search-operators)
 
 ---
 
