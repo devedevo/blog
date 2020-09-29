@@ -4,11 +4,25 @@ title: Search engine usage with Google operators
 description: Tips, hints and best practises for using Google & co.
 date: 2020-09-21
 author: Hardy Scheel
-tags: [git, cmder]
+tags: [Google, SEO]
 published: true
 ---
 
 How does a search engine interpret your search queries? Your text queries are not interpreted like a prose text, which is very familiar for human understanding. Google for instance ignores stop-words like: and, for or the, and also interpunctuation. It picks out keywords, combines them and queries his databases for matches.
+
+### Table of content
+* [Google operators](#Google-operators)
+    * [Search operators](#Search-operators)
+        * [Further help](#Further-help)
+    * [Calculator](#Calculator)
+        * [Further help](#Further-help)
+    * [Colour Picker](#Colour-Picker)
+        * [Further help](#Further-help)
+* [Google Operators in tabular form](#Google-Operators-in-tabular-form)
+    * [Basic Google search operators](#Basic-Google-search-operators)
+    * [Advanced Google search operators](#Advanced-Google-search-operators)
+
+---
 
 Google operators
 ================
@@ -98,11 +112,10 @@ Use the colour picker to select a colour or convert one colour code to another.
 [Google Search Help - Use calculator, unit converter and colour picker](https://support.google.com/websearch/answer/3284611){:target="_blank"}
 
 
-Google Operators in tabular form
-================================
+# Google Operators in tabular form
 
-Basic Google search operators
------------------------------
+## Basic Google search operators
+
 
 | Operator  | Purpose   | Example   |
 | ------    |:-------:  | -------:  |
@@ -116,8 +129,7 @@ Basic Google search operators
 | ..        | A from-to search. | iPhone 400..600$ |
 | (...)     | Group operators and terms. | site:scheel.dev AND intitle:cmder |
 
-Advanced Google search operators
---------------------------------
+## Advanced Google search operators
 
 | Operator  | Purpose   | Example   |
 | ------    |:-------:  | -------:  |
