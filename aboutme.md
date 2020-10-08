@@ -15,13 +15,16 @@ published: true
 A summary of topics I am working on or dealing with:
 
 *Currently, I force my time towards front- and backend web development for business applications. Over time, I'm trying to go with full stack web development with JavaScript and Java technologies.*
+
 - JavaScript (>= ECMA2015), TypeScript 4
 - MEAN stack: Angular 10, Node.js, Express
 - MySQL, MariaDB, PostGreSQL
-- Model View Control architecture and component driven development
+- Model View Controler architecture and component driven development
 - Docker
 
-*What else? I like, and I do continuous learning in a broad aspect of computer science. E.g.: I try out algorithms &bull; use MV* architecture pattern (like MVC, MVP, MVVM) and some frameworks &bull; networks &bull; computer hardware components*
+*What else? I like, and I do continuous learning in a broad aspect of computer science. E.g.:*
+
+MV* architecture pattern (like MVC, MVP, MVVM) &bull; frameworks that make life easier &bull; networks &bull; computer hardware components
 
 ## Things I did in the past, and things I also do
 
@@ -31,7 +34,9 @@ A summary of topics I am working on or dealing with:
 - Vagrant, HyperV, Virtual Box
 - RaspberryPi, Arduino
 
-In audio tech. I did: music recording &bull; ProTools, Cubase, Studio One &bull; microphoning &bull; drum pattern programming &bull; music composition
+*And in audio technologies I did:*
+
+ music recording and editing &bull; ProTools, Cubase, Studio One, Reaper &bull; microphoning &bull; drum pattern programming &bull; music composition
 
 <!--
 ## My works (currently)
