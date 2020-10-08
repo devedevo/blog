@@ -19,7 +19,7 @@ A summary of topics I am working on or dealing with:
 - JavaScript (>= ECMA2015), TypeScript 4
 - MEAN stack: Angular 10, Node.js, Express
 - MySQL, MariaDB, PostGreSQL
-- Model View Controler architecture and component driven development
+- Model View Controller architecture and component driven development
 - Docker
 
 *What else? I like, and I do continuous learning in a broad aspect of computer science. E.g.:*
