@@ -83,7 +83,7 @@ This removes the containers, network and also the persistent data which is store
 
 ### Further information
 
-* [https://www.portainer.io/installation/](https://www.portainer.io/installation/){:target="_blank"}
+* [https://www.portainer.io/installation/](https://www.portainer.io/installation/)
 
 ---
 
@@ -129,8 +129,8 @@ This removes the containers, network and also the persistent data which is store
 
 ### Further information
 
-* [Best practices for Docker on QNAP NAS](https://mwunderling.com/blog/qnapcontainertips.html){:target="_blank"}
-* [Install Portainer on QNAP NAS](https://mwunderling.com/blog/portainerconfig.html){:target="_blank"}
+* [Best practices for Docker on QNAP NAS](https://mwunderling.com/blog/qnapcontainertips.html)
+* [Install Portainer on QNAP NAS](https://mwunderling.com/blog/portainerconfig.html)
 
 ---
 
@@ -165,4 +165,4 @@ On another Portainer instance on a different computer add QNAP Container Station
 
 ### Further information
 
-* [Configure Portainer remote access](https://mwunderling.com/blog/portainerconfig.html){:target="_blank"}
+* [Configure Portainer remote access](https://mwunderling.com/blog/portainerconfig.html)

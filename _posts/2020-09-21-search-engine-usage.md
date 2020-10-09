@@ -67,10 +67,10 @@ cache:heise.de
 
 ### Further help
 
-- [Google Search Help](https://support.google.com/websearch/answer/134479){:target="_blank"}
-- [Google Search Help - optimize your search](https://support.google.com/websearch/answer/2466433){:target="_blank"}
-- [German: online-marketing.de/google-suchoperatoren/](https://www.online-marketing.de/google-suchoperatoren/){:target="_blank"}
-- [German: t3n.de/news/google-suche-tipps-und-tricks](https://t3n.de/news/google-suche-tipps-und-tricks-537407/){:target="_blank"}
+- [Google Search Help](https://support.google.com/websearch/answer/134479)
+- [Google Search Help - optimize your search](https://support.google.com/websearch/answer/2466433)
+- [German: online-marketing.de/google-suchoperatoren/](https://www.online-marketing.de/google-suchoperatoren/)
+- [German: t3n.de/news/google-suche-tipps-und-tricks](https://t3n.de/news/google-suche-tipps-und-tricks-537407/)
 
 ## Calculator
 
@@ -101,7 +101,7 @@ Unit Converter:
 
 ### Further help
 
-[Google Search Help - Use calculator, unit converter and colour picker](https://support.google.com/websearch/answer/3284611){:target="_blank"}
+[Google Search Help - Use calculator, unit converter and colour picker](https://support.google.com/websearch/answer/3284611)
 
 ## Colour Picker
 
@@ -109,7 +109,7 @@ Use the colour picker to select a colour or convert one colour code to another.
 
 ### Further help
 
-[Google Search Help - Use calculator, unit converter and colour picker](https://support.google.com/websearch/answer/3284611){:target="_blank"}
+[Google Search Help - Use calculator, unit converter and colour picker](https://support.google.com/websearch/answer/3284611)
 
 
 # Google Operators in tabular form

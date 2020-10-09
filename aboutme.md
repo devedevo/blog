@@ -6,7 +6,7 @@ permalink: /aboutme/
 published: true
 ---
 
-*My name is Hardy Scheel and I live in the western corner of Germany in a big town called [Cologne](https://goo.gl/maps/4HdXxkBrVhZFC8uF8){:target="_blank"} or Köln as we say.*
+*My name is Hardy Scheel and I live in the western corner of Germany in a big town called [Cologne](https://goo.gl/maps/4HdXxkBrVhZFC8uF8) or Köln as we say.*
 
 ## My favourite topics
 *I’m very interested in software development and computer science in general. Besides, I've a lot of various interests that differ from time to time, like making music, playing guitar, researching in politics and history, or doing some sports.*

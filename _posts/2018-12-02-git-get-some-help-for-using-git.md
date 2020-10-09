@@ -36,19 +36,19 @@ git log --all --decorate --oneline --graph
 
 ## Tutorials
 Get to know git as a version control system.
-- [Pro Git e-book in various languages](http://git-scm.com/book){:target="_blank"}
-- [Official Git introduction tutorial](https://git-scm.com/docs/gittutorial){:target="_blank"}
-- [A guided tour through Git fundamentals](http://gitimmersion.com){:target="_blank"}
-- [Git for GitHub handbook](https://guides.github.com/introduction/git-handbook/){:target="_blank"}
+- [Pro Git e-book in various languages](http://git-scm.com/book)
+- [Official Git introduction tutorial](https://git-scm.com/docs/gittutorial)
+- [A guided tour through Git fundamentals](http://gitimmersion.com)
+- [Git for GitHub handbook](https://guides.github.com/introduction/git-handbook/)
 
 ---
 
 ## Cheat Sheets 
 Get a quick overview of relevant git commands for your daily work.
-- [GitHub's Git CLI Cheat Sheets - overview](https://services.github.com/on-demand/resources/cheatsheets/){:target="_blank"}
-- [GitHub's Git CLI Cheat Sheets](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/){:target="_blank"}
-- [GitHub's Git CLI Cheat Sheets - as a PDF](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf){:target="_blank"}
-- [GitHub's Git CLI Cheat Sheets - German](https://services.github.com/on-demand/downloads/de/github-git-cheat-sheet/){:target="_blank"}
+- [GitHub's Git CLI Cheat Sheets - overview](https://services.github.com/on-demand/resources/cheatsheets/)
+- [GitHub's Git CLI Cheat Sheets](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/)
+- [GitHub's Git CLI Cheat Sheets - as a PDF](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- [GitHub's Git CLI Cheat Sheets - German](https://services.github.com/on-demand/downloads/de/github-git-cheat-sheet/)
 
 ---
 
@@ -62,7 +62,7 @@ Get a quick overview of relevant git commands for your daily work.
 ---
 
 ## Solving Problems
-- [Setting up multiple GitHub accounts on Windows](http://www.kevinpelgrims.com/blog/2012/07/20/setting-up-multiple-github-accounts-on-windows/){:target="_blank"}
+- [Setting up multiple GitHub accounts on Windows](http://www.kevinpelgrims.com/blog/2012/07/20/setting-up-multiple-github-accounts-on-windows/)
 
 ---
 

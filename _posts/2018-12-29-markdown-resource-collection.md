@@ -20,23 +20,23 @@ Markdown
 Markdown is a simple way to write, structure and format text. And all at the same time when you write the text.
 
 ## Tutorials
-- [German: Einführung, Syntax und Beispiele inkl. GitHub Flavoured Markdown](http://markdown-syntax.de/Syntax/){:target="_blank"}
-- [interactive Markdown tutorial @markdowntutorial.com](http://markdowntutorial.com/){:target="_blank"}
-- [interactive Markdown tutorial @commonmark.org](https://commonmark.org/help/tutorial/){:target="_blank"}
+- [German: Einführung, Syntax und Beispiele inkl. GitHub Flavoured Markdown](http://markdown-syntax.de/Syntax/)
+- [interactive Markdown tutorial @markdowntutorial.com](http://markdowntutorial.com/)
+- [interactive Markdown tutorial @commonmark.org](https://commonmark.org/help/tutorial/)
 
 ## Cheat Sheets
-- [Markdown syntax cheat sheet @github.com/adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
-- [Markdown reference quick overview @commonmark.org](https://commonmark.org/help/){:target="_blank"}
-- [Markdown quick guide @github.com](https://guides.github.com/features/mastering-markdown/){:target="_blank"}
+- [Markdown syntax cheat sheet @github.com/adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown reference quick overview @commonmark.org](https://commonmark.org/help/)
+- [Markdown quick guide @github.com](https://guides.github.com/features/mastering-markdown/)
 
 ## Editors
-- [StackEdit – in-browser Markdown editor](https://stackedit.io/){:target="_blank"}
+- [StackEdit – in-browser Markdown editor](https://stackedit.io/)
 
 ## Syntax highlighting in code blocks
 
 Code blocks are part of the MarkDown specification but syntax highlighting is not. But many renderers like GitHub support syntax highlighting. Just open a code block and define your language or shell you want to colour.
 
-- Look what languages are supported by syntax highlighting: [https://highlightjs.org/static/demo/](https://highlightjs.org/static/demo/){:target="_blank"}
+- Look what languages are supported by syntax highlighting: [https://highlightjs.org/static/demo/](https://highlightjs.org/static/demo/)
 
 Example usage:
 ```javascript
@@ -52,7 +52,7 @@ Example usage:
 
 Some renderers can interpret LaTeX Mathematics. The beginning and ending dollar signs (`$`) are the delimiters for the TeX markup.
 
-- [https://en.wikibooks.org/wiki/LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics){:target="_blank"}
+- [https://en.wikibooks.org/wiki/LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 Examples:
 ```latex
@@ -66,6 +66,6 @@ CommonMark
 ==========
 
 CommonMark is a propose for an unambiguous syntax reference specification for Markdown.
-- [CommonMark website](https://commonmark.org){:target="_blank"}
-- [CommonMark specification](https://spec.commonmark.org/){:target="_blank"}
-- [GitHub Flavored Markdown Spec - based on CommonMark](https://github.github.com/gfm/){:target="_blank"}
+- [CommonMark website](https://commonmark.org)
+- [CommonMark specification](https://spec.commonmark.org/)
+- [GitHub Flavored Markdown Spec - based on CommonMark](https://github.github.com/gfm/)
