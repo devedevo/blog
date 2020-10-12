@@ -1,9 +1,9 @@
 ---
 layout: post
-title: RESTful API Guideline
+title: RESTful API Guideline (deprecated article)
 description: Best practices on how to design REST APIs. 
 date: 2019-01-05
-last_update: 2019-01-24
+last_update: 2020-10-12
 author: Hardy Scheel
 tags: [RESTful API]
 ---
@@ -12,6 +12,8 @@ tags: [RESTful API]
 RESTful API Guideline
 Best practices on how to design REST APIs.
 -->
+
+> With the OpenAPI 3.0 defacto-Standard many questions are obsolete for me now. It arrived already in 2018. OpenAPI 3 describes how a RESTful API can be used best. I mark this document obsolete now, because it's redundant with OpenAPI 2.0 and 3.0. I suggest you to use OpenAPI 3.0 specification for your projects and further learning.
 
 As of the end of 2018 there were many discussions and implementations about REST APIs. Because I need some APIs for some projects, I decided to summon some of the best practices to realize REST APIs. This topic is very huge and the research very time consuming. There is also no standardization, but de facto standards and some very important recommendations that belong to the thematic of API usage and design. This document will be constantly revised.
 HTTP/1.1 in combination with REST and such similar hacks will still be needed in the future for older devices/clients. HTTP/2 solves many of this workarounds, but it has to be more widely supported by clients.
