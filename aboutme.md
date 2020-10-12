@@ -16,15 +16,18 @@ A summary of topics I am working on or dealing with:
 
 *Currently, I force my time towards front- and backend web development for business applications. Over time, I'm trying to go with full stack web development with JavaScript and Java technologies.*
 
+- Require management and analysis, Software and architecture conception
 - JavaScript (>= ECMA2015), TypeScript 4
-- MEAN stack: Angular 10, Node.js, Express
-- MySQL, MariaDB, PostGreSQL
-- Model View Controller architecture and component driven development
-- Docker
+- MEAN stack: Angular 10, Node.js, Express, Nest.js
+- MySQL, MariaDB, PostGreSQL, Sequelize ORM
+- Object-oriented, MVC like architecture pattern, Component driven, OpenAPI, REST
+- Docker, configure OS and server for deployment
 
 *What else? I like, and I do continuous learning in a broad aspect of computer science. E.g.:*
 
-MV* architecture pattern (like MVC, MVP, MVVM) &bull; frameworks that make life easier &bull; networks &bull; computer hardware components
+- ~~Java and Spring Boot for back-end development~~ (on hold)
+
+MV* architecture pattern (like MVC, MVP, MVVM) &bull; try out frameworks that make life easier &bull; build and manage networks &bull; build pcs, try out computer hardware components
 
 ## Things I did in the past, and things I also do
 
@@ -57,7 +60,7 @@ MV* architecture pattern (like MVC, MVP, MVVM) &bull; frameworks that make life 
 ## My technical history
 - Network administrations for small businesses (since 2004)
 - Desktop applications for small business needs in Visual Basic 6, C++ (2002-2007)
-- MS Access database and gui development (2000-2004)
+- Microsoft Access database and Access GUI development (2000-2004)
 - Desktop publishing (DTP for corporate identity, posters, brochures) and web design at work and for music bands (1997-2007)
 
 You can contact me at hardy.scheel [at] gmail.com.
