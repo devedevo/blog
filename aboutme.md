@@ -16,7 +16,7 @@ A summary of topics I am working on or dealing with:
 
 *Currently, I force my time towards front- and backend web development for business applications. Over time, I'm trying to go with full stack web development with JavaScript and Java technologies.*
 
-- Requirements analysis, Software and architecture conception
+- Requirements Management, Software and architecture conception
 - JavaScript (>= ECMA2015), TypeScript 4
 - MEAN stack: Angular 10, Node.js, Express, Nest.js
 - MySQL, MariaDB, PostGreSQL, Sequelize ORM
