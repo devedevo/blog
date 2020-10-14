@@ -16,12 +16,12 @@ A summary of topics I am working on or dealing with:
 
 *Currently, I force my time towards front- and backend web development for business applications. Over time, I'm trying to go with full stack web development with JavaScript and Java technologies.*
 
-- Require management and analysis, Software and architecture conception
+- Requirements analysis, Software and architecture conception
 - JavaScript (>= ECMA2015), TypeScript 4
 - MEAN stack: Angular 10, Node.js, Express, Nest.js
 - MySQL, MariaDB, PostGreSQL, Sequelize ORM
 - Object-oriented, MVC like architecture pattern, Component driven, OpenAPI, REST
-- Docker, configure OS and server for deployment
+- Docker, configure OS, server and tools for deployment
 
 *What else? I like, and I do continuous learning in a broad aspect of computer science. E.g.:*
 
@@ -31,7 +31,7 @@ MV* architecture pattern (like MVC, MVP, MVVM) &bull; try out frameworks that ma
 
 ## Things I did in the past, and things I also do
 
-- Require management and development for business applications and web development.
+- Requirements analysis and development for business web applications and web development.
 - Java SE, JavaFX &bull; Python &bull; PHP &bull; Perl
 - Oracle DB 11 & 12
 - Vagrant, HyperV, Virtual Box
