@@ -43,9 +43,9 @@ The most common settings could look like this:
 
 ![cmder-git-bash-settings][cmder-git-bash-settings]
 
-[git-installation-adjusting-path-environment]: /_posts/img/2020-09-01-setting-up-cmder-with-git/git-installation-adjusting-path-environment.png "Three options when Adjusting the PATH Environment during the Git for Windows installation."
+[git-installation-adjusting-path-environment]: /img/2020-09-01-setting-up-cmder-with-git/git-installation-adjusting-path-environment.png "Three options when Adjusting the PATH Environment during the Git for Windows installation."
 
-[cmder-git-bash-settings]: /_posts/img/2020-09-01-setting-up-cmder-with-git/cmder-git-bash-settings.png "The most common settings for Cmder when setting up a git bash."
+[cmder-git-bash-settings]: /img/2020-09-01-setting-up-cmder-with-git/cmder-git-bash-settings.png "The most common settings for Cmder when setting up a git bash."
 
 - At last you can give your bash an icon. Type in the following at the "Task parameters" text box:
 
