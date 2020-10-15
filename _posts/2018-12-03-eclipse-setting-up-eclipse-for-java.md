@@ -72,7 +72,7 @@ Choose the path to your JavaFX source archive. Mine is within my workspace in a 
 ![eclipse-jre-doc-sources-10][eclipse-jre-doc-sources-10]
 
 [eclipse-jre-doc-sources-1]: /blog/img/2018-12-03-eclipse-setting-up-eclipse-for-java/eclipse-jre-doc-sources-1.png "Choose your JRE and click on edit."
-[eclipse-jre-doc-sources-2]: /_posts/img/2018-12-03-eclipse-setting-up-eclipse-for-java/eclipse-jre-doc-sources-2.png "Mark the highlighted libraries and click on Javadoc Location."
+[eclipse-jre-doc-sources-2]: /img/2018-12-03-eclipse-setting-up-eclipse-for-java/eclipse-jre-doc-sources-2.png "Mark the highlighted libraries and click on Javadoc Location."
 [eclipse-jre-doc-sources-3]: /_posts/img/2018-12-03-eclipse-setting-up-eclipse-for-java/eclipse-jre-doc-sources-3.png "Choose the location of the JDK-doc file, browse within the archive to the folder called api and click validate to proof if Eclipse can find the entry point of the documentation."
 [eclipse-jre-doc-sources-4]: /_posts/img/2018-12-03-eclipse-setting-up-eclipse-for-java/eclipse-jre-doc-sources-4.png "Select the location of the JDK-doc file. Mine is within my workspace in a project called JavaSE8 resources."
 [eclipse-jre-doc-sources-5]: /_posts/img/2018-12-03-eclipse-setting-up-eclipse-for-java/eclipse-jre-doc-sources-5.png "Now lets attach the source code to this libraries."
